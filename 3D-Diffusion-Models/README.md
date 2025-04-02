@@ -7,12 +7,14 @@ Welcome to my personal paper reading log! This repository documents research pap
 ## 📄 Paper List
 | Title | Conference / Venue | Year | Link |
 |-------|---------------------|------|------|
+| DiffSplat: Repurposing Image Diffusion Models For Scalable Gaussian Splat Generation | ICLR | 2025 | [Paper](https://arxiv.org/pdf/2501.16764)
 | COMOGen: A Controllable Text-to-3D Multi-object Generation Framework | arXiv | 2024 | [Paper](https://arxiv.org/pdf/2409.00590) |
 
 ---
 
 ## 🧠 Focus Areas
 1. Text-to-3D Generation
+2. Image-to-3D Generation
 
 ---
 ## ✅ Contribution
