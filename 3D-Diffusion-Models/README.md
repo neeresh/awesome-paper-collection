@@ -15,6 +15,7 @@ Welcome to my personal paper reading log! This repository documents research pap
 ## 🧠 Focus Areas
 1. Text-to-3D Generation
 2. Image-to-3D Generation
+3. Gaussian Splatting
 
 ---
 ## ✅ Contribution
