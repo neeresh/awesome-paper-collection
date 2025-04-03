@@ -1,4 +1,4 @@
-# 🧠 Paper Reading Repository: 3D Diffusion Models
+# 🧠 Paper Reading Repository: Vision-Langugage Models
 
 Welcome to my personal paper reading log! This repository documents research papers I've read — primarily focused on **Vision-Language Models**, **Reinforcement Learning**, and related subfields. My goal is to understand the landscape, track trends, and prepare for future research contributions.
 

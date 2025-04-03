@@ -1,0 +1,22 @@
+# 🧠 Paper Reading Repository: 2D Diffusion Models
+
+Welcome to my personal paper reading log! This repository documents research papers I've read — primarily focused on **2D diffusion models**, **generative modeling**, and related subfields. My goal is to understand the landscape, track trends, and prepare for future research contributions.
+
+---
+
+## 📄 Paper List
+| Title | Conference / Venue | Year | Link |
+|-------|---------------------|------|------|
+| PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis | ICLR | 2024 | [Paper](https://arxiv.org/pdf/2310.00426)
+| Scalable Diffusion Models with Transformers | ICCV | 2023 | [Paper](https://arxiv.org/pdf/2212.09748) |
+
+---
+
+## 🧠 Focus Areas
+1. Text-to-Image Generation
+
+---
+## ✅ Contribution
+
+If you're reading this and have suggestions or papers to add, feel free to open an issue or PR!
+---
