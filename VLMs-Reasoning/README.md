@@ -8,11 +8,13 @@ Welcome to my personal paper reading log! This repository documents research pap
 | Title | Conference / Venue | Year | Link |
 |-------|---------------------|------|------|
 | MM-EUREKA: Exploring Visual AHA Moment With Rule-Based Large-Scale Reinforcement Learning | arXiv | 2025 | [Paper](https://arxiv.org/pdf/2503.07365)
+| R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization | arXiv | 2025 | [Paper](https://arxiv.org/pdf/2503.10615) |
 ---
 
 ## 🧠 Focus Areas
 1. Rule-Based Reinforcement Learning Methods
-2. Multi-Modal Reasoning
+2. Supervised Fine-Tuning (SFT)
+3. Multi-Modal Reasoning
 
 ---
 ## ✅ Contribution
