@@ -9,7 +9,7 @@ Welcome to my personal paper reading log! This repository documents research pap
 |-------|---------------------|------|------|
 | PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis | ICLR | 2024 | [Paper](https://arxiv.org/pdf/2310.00426)
 | Scalable Diffusion Models with Transformers | ICCV | 2023 | [Paper](https://arxiv.org/pdf/2212.09748) |
-| All are Worth Words: A ViT Backbone for Diffusion Models | CVPR | 2023 | [Paper}(https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_All_Are_Worth_Words_A_ViT_Backbone_for_Diffusion_Models_CVPR_2023_paper.pdf)
+| All are Worth Words: A ViT Backbone for Diffusion Models | CVPR | 2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Bao_All_Are_Worth_Words_A_ViT_Backbone_for_Diffusion_Models_CVPR_2023_paper.pdf)
 
 ---
 
