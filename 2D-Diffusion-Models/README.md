@@ -4,7 +4,7 @@ Welcome to my personal paper reading log! This repository documents research pap
 
 ---
 
-## 📄 Paper List
+## 📄 Paper List (Backbone)
 | Title | Conference / Venue | Year | Link |
 |-------|---------------------|------|------|
 | PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis | ICLR | 2024 | [Paper](https://arxiv.org/pdf/2310.00426)
@@ -12,9 +12,17 @@ Welcome to my personal paper reading log! This repository documents research pap
 
 ---
 
+## 📄 Paper List (Generation)
+| Title | Conference / Venue | Year | Link |
+|-------|---------------------|------|------|
+| PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis | ICLR | 2024 | [Paper](https://arxiv.org/pdf/2310.00426)
+| One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale | ICML | 2023 | [Paper](https://arxiv.org/pdf/2303.06555) |
+
+---
+
 ## 🧠 Focus Areas
 1. Text-to-Image Generation
-
+2. Unified Diffusion Models
 ---
 ## ✅ Contribution
 
