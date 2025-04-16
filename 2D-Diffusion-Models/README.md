@@ -21,6 +21,12 @@ Welcome to my personal paper reading log! This repository documents research pap
 
 ---
 
+## 📄 Paper List (Discrete Text)
+| Title | Conference / Venue | Year | Link |
+|-------|---------------------|------|------|
+| MDLM: Simple and Effective Masked Diffusion Language Models | NIPS | 2024 | [Paper](https://arxiv.org/abs/2406.07524)
+
+---
 ## 🧠 Focus Areas
 1. Text-to-Image Generation
 2. Unified Diffusion Models
