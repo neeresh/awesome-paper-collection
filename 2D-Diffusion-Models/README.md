@@ -24,7 +24,12 @@ Welcome to my personal paper reading log! This repository documents research pap
 ## 📄 Paper List (Discrete Text)
 | Title | Conference / Venue | Year | Link |
 |-------|---------------------|------|------|
-| MDLM: Simple and Effective Masked Diffusion Language Models | NIPS | 2024 | [Paper](https://arxiv.org/abs/2406.07524)
+| MDLM: Simple and Effective Masked Diffusion Language Models | NeurIPS | 2024 | [Paper](https://arxiv.org/abs/2406.07524)
+
+## 📄 Paper List (Discrete Image)
+| Title | Conference / Venue | Year | Link |
+|-------|---------------------|------|------|
+| Vector Quantized Diffusion Model for Text-to-Image Synthesis | CVPR | 2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf)
 
 ---
 ## 🧠 Focus Areas
