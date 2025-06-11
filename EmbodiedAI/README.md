@@ -11,7 +11,8 @@ Welcome to my personal paper reading log! This repository documents research pap
 | VOYAGER: An Open-Ended Embodied Agent with Large Language Models | arXiv | 2023 | [Paper](https://arxiv.org/pdf/2305.16291) | [Code](https://github.com/MineDojo/Voyager) |
 | MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception | CVPR | 2024 | [Paper](https://iranqin.github.io/MP5.github.io/assets/MP5_paper.pdf) | [Code](https://github.com/IranQin/MP5) |
 | Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft | CVPR | 2024 | [Paper](https://arxiv.org/pdf/2312.09238) | - |
-
+| Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy | arXiv | 2025 | [Paper](https://arxiv.org/pdf/2502.19902) | - |
+| MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge | NIPS | 2022 | [Paper](https://arxiv.org/pdf/2206.08853) | [Code](https://github.com/MineDojo/MineDojo) |
 
 ## 🧠 Focus Areas
 1. Minecraft
